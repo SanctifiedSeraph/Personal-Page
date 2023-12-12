@@ -1,0 +1,86 @@
+body, html{
+    height:50%;
+    margin: 10px;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    font-weight:300;
+    line-height:2em;
+    color:red;
+    background-color: black;
+ }
+ .global{
+    text-align:center;
+    padding: 10px 10px 5px 5px;
+ }
+ 
+
+ 
+ .smallborder{
+    color:white;
+ }
+ 
+ 
+ a{
+    color: aliceblue;
+    background-color:rgb(29, 0, 0);
+    padding:10px 40px 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    text-decoration:line-through;
+ }
+ 
+ 
+ .part1, .part2, .part3{
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+ 
+ 
+ .part1{
+    background-image: url('img/Witch1.jpeg');
+    min-height: 150%;
+ }
+ 
+ 
+ .part2{
+    background-image: url('img/witch2.jpeg');
+    min-height: 450px;
+ }
+ 
+ 
+ .part3{
+    background-image: url('img/witch3.jpeg');
+    min-height: 450px;
+    border: 10px;
+    border-color: black;
+    padding:50px 50px 50px 50px;
+ }
+ .text1{
+    padding: 70px 0px 3px 0px;
+ }
+ .text2{
+    background-color: darkred;
+    opacity: 70%;
+    text-decoration: none;
+    color: gold;
+ }
+ .workplease{
+    color:gold;
+    padding: 150px;
+    opacity: 100%;
+ }
+.text3{
+    background-color: rgb(10, 10, 22);
+    opacity: 50%;
+    text-align: center;
+    padding: 10px 10px 10px 10px
+}
+
+.text4{
+    padding: 10px 10px 10px 10px
+}
